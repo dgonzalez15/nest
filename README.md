@@ -34,6 +34,9 @@ $ yarn run start:dev
 
 # production mode
 $ yarn run start:prod
+
+# instalar axios
+$ yarn add axios@0.27.2
 ```
 ## Stack usado
 * MongoDB
